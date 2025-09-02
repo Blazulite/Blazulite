@@ -1,12 +1,3 @@
-- 👋 Hi, I’m NANAMI TEE
-- 👀 I’m interested in NANAMI TEE
-- 🌱 I’m currently learning NANAMI TEE
-- 💞️ I’m looking to collaborate on NANAMI TEE
-- 📫 How to reach me: Discord (blazulite) I mean NANAMI TEE
-
-<!---
-Blazulite/Blazulite is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-^ who asked?
---->
+Let me tell you about the most beautiful skin in teeworlds - twinbop. Sure, everyone's running around with their basic default skins or trying to flex with some fancy community creation, but have you SEEN twinbop?
+Those gradient eyes are absolutely mesmerizing. Like, you're trying to focus on hitting that tricky part and then BAM - your teammate shows up in twinbop and you're just staring at those dreamy color-shifting eyes instead of watching where you're hooking. It's honestly distracting how pretty this skin is.
+And the colors! The way twinbop's gradient flows across the body - it's like someone took a sunset and wrapped it around a tee. No wonder half the server stops what they're doing when someone joins with twinbop equipped. We're all just standing there like "damn, that's one good-looking tee."
